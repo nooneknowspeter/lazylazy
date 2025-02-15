@@ -4,7 +4,7 @@
 
 # 💤 LazyLazy 💤
 
-A Collection of AWESOME TUI Based Applications and CLI Tools
+A Collection of AWESOME TUI Based Applications and CLI Tools | [Inspired By](https://www.reddit.com/r/neovim/comments/1927r0x/comment/khgugkl/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 <div align="center">
 
